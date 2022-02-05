@@ -1,6 +1,6 @@
 # uas_susulan
 
-![gambar1](ss_soal/ss.png)
+![gambar1](ss_soal/ss.PNG)
 
 ## Berikut ini adalah penjelasannya
 * Web scraping adalah proses pengambilan data atau esktraksi dari sebuah website, lalu data tersebut umumnya disimpan dalam sebuah format tertentu.
