@@ -8,11 +8,11 @@
 
 ## Berikut codingannya
 
-![gambar2](ss/ss_2.PNG)
+![gambar2](ss/ss1.PNG)
 
 ## Berikut sumber web yang saya gunakan
 
-![gambar3](ss/ss1.PNG)
+![gambar3](ss/ss_2.PNG)
 
 ## Sekian dan terima kasih
 * Mohon maaf pak, karena saya belum paham jadi saya mengerjakanya sebisa saya aja pak. Dan ini pun belum selesai semuanya mohon maaf pak sekali lagi :)
