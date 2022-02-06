@@ -27,4 +27,4 @@ from bs4 import BeautifulSoup
 ![gambar3](ss/ss_2.PNG)
 
 ## Sekian dan terima kasih
-* Mohon maaf pak, karena saya belum paham jadi saya mengerjakanya sebisa saya aja pak. Dan ini pun belum selesai semuanya mohon maaf pak sekali lagi :)
+* Mohon maaf pak, karena saya belum paham jadi saya mengerjakanya sebisa saya aja pak.
